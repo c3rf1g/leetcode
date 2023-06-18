@@ -28,3 +28,4 @@ var findMedianSortedArrays = function(nums1, nums2) {
         (fin_arr[(total_len) / 2] + fin_arr[(total_len) / 2 - 1]) / 2
 };
 //leetcode submit region end(Prohibit modification and deletion)
+
